@@ -467,6 +467,9 @@ export default function Header() {
 
               </div>
               <div className="py-6">
+                <a href="/blog" className="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-gray-100 hover:bg-gray-800">
+                  Blog
+                </a>
                 <a
                   href="/about"
                   className="-mx-3 block rounded-lg px-3 py-2.5 text-base/7 font-semibold text-gray-100 hover:bg-gray-800"
