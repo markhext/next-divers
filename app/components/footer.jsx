@@ -86,8 +86,8 @@ const footerNavigation = {
       ),
     },
     {
-      name: 'YouTube',
-      href: '#',
+      name: 'TitTok',
+      href: 'https://www.tiktok.com/@nextdivers/video/7515203127537093934?_r=1&_t=ZT-8xB6LOtvFOt',
       icon: (props) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
