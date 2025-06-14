@@ -8,6 +8,7 @@ import Proof from "../components/proof";
 import Block1 from "./block-1"
 import Block2 from "./block-2"
 import Block3 from "./block-3"
+import Price from "./price"
 
 export default function Example() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
@@ -33,7 +34,7 @@ export default function Example() {
               <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl">
                 <div className="hidden sm:mb-10 sm:flex">
                   <div className="relative rounded-full px-3 py-1 text-sm/6 text-gray-500 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-                    Anim aute id magna aliqua ad ad non deserunt sunt.{' '}
+                    Date of the next IDC - 25 SEPT 2025{'    '}
                     <a href="#" className="font-semibold whitespace-nowrap text-indigo-600">
                       <span aria-hidden="true" className="absolute inset-0" />
                       Read more <span aria-hidden="true">&rarr;</span>
@@ -77,6 +78,7 @@ export default function Example() {
     <Block1 />
     <Block2 />
     <Block3 />
+    <Price />
     </>
   )
 }

@@ -49,38 +49,38 @@ const values = [
 ]
 const team = [
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Adi Nogin',
+    role: 'PADI Course Director',
     imageUrl:
       'team-1.jpg',
   },
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Mickel Stans',
+    role: 'PADI Course Director',
     imageUrl:
       'team-2.jpg',
   },
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Mark Hext',
+    role: 'PADI Course Director',
     imageUrl:
       'team-3.jpg',
   },
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Franz Weixlbraun',
+    role: 'PADI Course Director',
     imageUrl:
       'team-4.jpg',
   },
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Nathan Blanchard',
+    role: 'PADI Course Dirctor',
     imageUrl:
       'team-5.jpg',
   },
   {
-    name: 'Michael Foster',
-    role: 'Co-Founder / CTO',
+    name: 'Patricia Shelton',
+    role: 'PADI Course Director',
     imageUrl:
       'team-6.jpg',
   },
